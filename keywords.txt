@@ -1,0 +1,15 @@
+invader
+invaders
+inbound
+leader
+hello
+dirtybomb
+bomb
+bombs
+easternfront
+retreat
+attack
+nuclear
+nuke
+nukes
+position
