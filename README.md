@@ -9,4 +9,4 @@ which contain keywords.
 # Screenshot
 ![Untitled-1](https://user-images.githubusercontent.com/95890436/199611621-21a04a04-6a69-4c33-984c-70202a674fff.png)
 
-The original text is displayed as key #0. Key #9 contained keywords "nuke" and "easternfront", and is thus printed as a likely result.
+The original text is displayed as key #0. Key #9 contained keywords "attack" and "easternfront", and is thus printed as a likely result.
