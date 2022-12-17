@@ -1,4 +1,4 @@
-# caesarBruteforce
+# Caesar Cipher Decryptor
 This program decodes a single line of Caesar cipher-encrypted
 text using a two-pronged approach; brute force and simple heuristics. The program
 produces 13 decryption results, then prints two lists. The first list contains
