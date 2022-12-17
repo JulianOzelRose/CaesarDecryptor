@@ -1,8 +1,8 @@
 # Caesar Cipher Decryptor
 This program decodes a single line of Caesar cipher-encrypted
 text using a two-pronged approach; brute force and simple heuristics. The program
-produces 13 decryption results, then prints two lists. The first list contains
-all 13 decryption keys with their results. The second list contains decryption results
+produces 12 decryption results, then prints two lists. The first list contains
+all 12 decryption keys with their results. The second list contains the decryption results
 which contain keywords.
 
 
