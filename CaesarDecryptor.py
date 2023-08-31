@@ -1,5 +1,5 @@
 """
-Program: caesarBruteforce.py
+Program: CaesarDecryptor.py
 Author: Julian Rose
 
 The purpose of this program is to decrypt a single line of Caesar cipher-encrypted
