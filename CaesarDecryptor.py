@@ -87,7 +87,7 @@ def main():
     plainTxt = DecryptText(cipherTxt, correctKey)
 
     # Write to file or exit program
-    if correctKey is not 0:
+    if correctKey != 0:
         outputFilename = input("Enter filename to write result to: ")
         try:
             WriteToFile(outputFilename, plainTxt)
